@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miftahudin, S.I.Kom., CPS.
+title: Miftah (S.I.Kom., CPS.)
 
 # Is this the primary user of the site?
 superuser: true
