@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:miftahudinbusiness@gmail.com 
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://miftah-careerprofile.netlify.app/
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/mfthexcel?igsh=cmo1bTc0dzVwNDc4
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
